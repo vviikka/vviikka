@@ -9,7 +9,7 @@
 
 - **Email**: vikadogodkina@gmail.com
 - **Телефон**: +375257193797
-- **GitHub**: [github.com/vviikka](https://github.com/vviikka)
+- **GitHub**: [мой гит](https://github.com/vviikka "хихик")
 *********
 
 ## 💬Обо мне💬
