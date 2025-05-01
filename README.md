@@ -7,7 +7,7 @@
 
 ## 📫Контакты📫
 
-- **Email**: [почта][vikadogodkina@gmail.com]
+- **Email**: [почта][http://vikadogodkina@gmail.com]
 - **Телефон**: +375257193797
 - **GitHub**: [мой гит](https://github.com/vviikka)
 *********
