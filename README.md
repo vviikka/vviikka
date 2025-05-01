@@ -2,7 +2,7 @@
 *********
 ## *✨Это Томас✨*
 *********
-![image](https://github.com/user-attachments/assets/fb0f37fb-15ea-4624-9f6d-58767a77f4b4)
+![result_котик](https://github.com/user-attachments/assets/c36f158c-c77f-47a1-ba7f-4eced2f829a5)
 *********
 
 ## 📫Контакты📫
