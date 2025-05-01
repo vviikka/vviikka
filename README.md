@@ -7,7 +7,7 @@
 
 ## 📫Контакты📫
 
-- **Email**: [почта][[https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/?ysclid=ma5ppyu4dz451032792]
+- **Email**: [почта][https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/?ysclid=ma5ppyu4dz451032792]
 - **Телефон**: +375257193797
 - **GitHub**: [мой гит](https://github.com/vviikka)
 *********
