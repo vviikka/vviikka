@@ -1,11 +1,16 @@
 # Догодькина Виктория Сергеевна 👋
 *********
-______________________________________________________________________________Это Томас👇______________________________________________________________________________
+__✨Это Томас✨__
 *********
 ![image](https://github.com/user-attachments/assets/fb0f37fb-15ea-4624-9f6d-58767a77f4b4)
-
-
-<!--
+*********
+## 📫Контакты📫
+- Email: vikadogodkina@gmail.com
+- Телефон: +375257193797
+- GitHub: [github.com/vviikka](https://github.com/vviikka)
+*********
+## 💬Обо мне💬
+  Я учусь в БГУИРе на 3-ем курсе. Имею навыки в сфере 3D и 2D-дизайна, мой интерес к визуальному искусству и внимательность к деталям помогают мне создавать уникальные и красивые сцены.
 **vviikka/vviikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
